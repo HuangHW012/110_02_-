@@ -2,4 +2,4 @@
 Paper representations and implementation
 
 Paper  I: Introdution to MLP-Mixer: An all-MLP Architecture for Vision <br>
-Paper II: Compare to Retinex-Net and Zero-DCE 
+Paper II: Compare Retinex-Net to Zero-DCE 
